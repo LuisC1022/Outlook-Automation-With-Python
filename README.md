@@ -18,7 +18,7 @@ In this post we will cover two main sections: how to download and send emails by
 
 ### Download Files:
 
-####**From your inbox:** 
+#### **From your inbox:** 
 It is important to mentionate that you have to specify the location where emails are stored.
 
 ```python
@@ -166,12 +166,6 @@ emails = folder.Items
 ```
 
 **Folder created as subfolder in your inbox section**
-
-
-
-<center>![image](https://user-images.githubusercontent.com/74120313/235249688-f2945b20-4c73-436b-b00e-bda3e7507aec.png)</center>
-
-_Microsoft. (n.d.). Create a subfolder [Screenshot]. Microsoft Support. Retrieved from https://support.microsoft.com/en-us/office/create-a-subfolder-adac3676-8dc0-4134-b151-22eec1cfcf93_
 
 
 ```python
